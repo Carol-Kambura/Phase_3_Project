@@ -118,7 +118,7 @@ Based on the findings, the business conclusion can be drawn as follows:
 - Best Model: Among the models explored was the decision tree Classifier. The model was able to identify 78% of the customers who were likely to churn with an accuracy score of 92.8%. However, the Random forest classifier could also be used as there wasn't such significance difference between the 2 models in performance.
 - The top 3 factors that were observed to influence the rate of customer churners included total day charge, customr service calls and number oof voice mail messages.
 - Predicting customer churn rate is an ongoing process, and it is important to continuously refine and improve the model. Regularly monitoring the model's performance, collecting new data, and incorporating feedback from business stakeholders can lead to better predictions and more accurate identification of customers who are at risk of churning
-- 
+
 ### BUSINESS RECOMMENDATION
 
 Determine the unique needs for the following customers and develop strategic plans for each group of customers;
