@@ -103,7 +103,7 @@ decision tree confusion matrix
 
 Model 3: Random Forest 
 
-The model did perform reasonably well with a high accuracy and AUC - ROC score of 85.72 with a precision and recall score of 82.28% and 73.86% respectively. This means that the model is able to identify a large proportion of churners but is also making some false positive. However, it is performing well in distinguishing between positive and negative instances
+The model did perform reasonably well with a high accuracy and AUC - ROC score of 86.85 with a precision and recall score of 82.71% and 76.13% respectively. This means that the model is able to identify a large proportion of churners but is also making some false positive. However, it is performing well in distinguishing between positive and negative instances
 
 Model 3: Random forest confusion matrix
 
@@ -115,7 +115,7 @@ Model 3: Random forest confusion matrix
 Based on the findings, the business conclusion can be drawn as follows:
 
 - Importance of Recall: In the context of predicting customer churn, the focus was placed on optimizing for Recall. By prioritizing Recall, the goal was to minimize the number of customers who are incorrectly classified as non-churners.
-- Best Model: Among the models explored was the decision tree Classifier. The model was able to identify 78% of the customers who were likely to churn with an accuracy score of 92.8%
+- Best Model: Among the models explored was the decision tree Classifier. The model was able to identify 78% of the customers who were likely to churn with an accuracy score of 92.8%. However, the Random forest classifier could also be used as there wasn't such significance difference between the 2 models in performance.
 - The top 3 factors that were observed to influence the rate of customer churners included total day charge, customr service calls and number oof voice mail messages.
 - Predicting customer churn rate is an ongoing process, and it is important to continuously refine and improve the model. Regularly monitoring the model's performance, collecting new data, and incorporating feedback from business stakeholders can lead to better predictions and more accurate identification of customers who are at risk of churning
 - 
