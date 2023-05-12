@@ -26,7 +26,9 @@ Using binary classification to build a model that accurately predicts customer c
 
 SyriaTel is a telecommunication company based in Syria. The services of the company include voice and data services. Recently, the company has been concerned about the increased rate of customer churn that is resulting to high loss of revenue. The company is looking to outsource a data scientist to help identify the contributing factors that are leading to customer's opting out on the services.
 
-### Business Problem 🤔
+### BUSINESS PROBLEM 🤔
+
+Customer churn rate has a significant impact on any company's bottom line. This is because it causes loss of revenue and market share as there's considerable cost implications in the getting new customers and could affect company's reputation. It is more cost-effective to retain existing customers than using money to get new ones. The effects of customer churn has made it necessary for SyrialTel company to identify the factors that contribute to customer churn and take proactive steps to retain its customers. This will be achieved through developing a model that accurately predicts customer churn to allow for it to take preventive measures.
 
 ### ABOUT DATA
 
@@ -48,13 +50,16 @@ Objectives ✍🏽
 - Random forest
 (NB: All models will be explored but application will be dependent on the data)
 
+### PROJECT MAIN OBJECTIVE
+
+The primary goal of this project is to identify the factors that contribute to curstomer churn and Develop a classifier that predicts which customers are likely to churn to enable SyriaTel take appropriate actions and reduce customer attrition.
+
 ### Research Question
- - What factors influence churn and what patterns are the patterns observed among churners?
+ - What factors influence churn and what are the patterns observed among churners?
 
 ### Methods
 
-The project used the CRISP-DM data science process to analyse and create a model best for the churn analysis. All the data science steps are described in the CRISP-DM.
-Report:
+The project used the CRISP-DM data science process to analyse and create a model that best analaysis the target variable "churn". All the data science steps are described in the CRISP-DM Report:
 
 Steps followed:
 
