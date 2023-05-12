@@ -54,10 +54,10 @@ Objectives ✍🏽
 
 The primary goal of this project is to identify the factors that contribute to curstomer churn and Develop a classifier that predicts which customers are likely to churn to enable SyriaTel take appropriate actions and reduce customer attrition.
 
-### Research Question
+### RESEARCH QUESTION
  - What factors influence churn and what are the patterns observed among churners?
 
-### Methods
+### METHODS
 
 The project used the CRISP-DM data science process to analyse and create a model that best analaysis the target variable "churn". All the data science steps are described in the CRISP-DM Report:
 
@@ -82,7 +82,7 @@ Steps followed:
 
       1. KNN Classiffier  
       
-### Results
+### RESULTS
 
 This classifiers had the lowest perfomance based on precision, recall and F1 scores. Observing a recall score of 19.31% means that the model has a high rate of producing false negative churns and could only correctly 19.31% positive instances (i.e., churners) out of all instances classified as positive by the model. 
 
